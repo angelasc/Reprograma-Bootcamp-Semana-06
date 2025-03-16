@@ -5,16 +5,16 @@
 
 # Reprograma | Bootcamp de Análise de Dados
 ## 🚀 Exercícios para Casa
-Turma Online 0n29 | Python | Semana 6 | 2024 | Professora Daviny Letícia
+Turma Online 0n29 | Semana 06 | 2024 | Professora Daviny Letícia
 
 Este repositório contém os exercícios desenvolvidos durante a **Semana 06** do curso de Python da turma Online On29 da Reprograma. Os desafios foram realizados para consolidar os conhecimentos adquiridos em aula.
 
 ## 📌 Conteúdo do Repositório  
 
-✅ Manipulação de Arquivos em Python
-✅ Criação e Uso de Módulos 
-✅ Pacotes em Python
-✅ Boas Práticas na Organização do Código
+- ✅ Manipulação de Arquivos em Python
+- ✅ Criação e Uso de Módulos 
+- ✅ Pacotes em Python
+- ✅ Boas Práticas na Organização do Código
 
 ## 🎯 Objetivo  
 
