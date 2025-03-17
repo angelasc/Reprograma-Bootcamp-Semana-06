@@ -1,24 +1,34 @@
 <h1 align="center">
-  <img src="assets/reprograma-fundos-claros.png" alt="logo reprograma" width="500">
+  <img style="background: white;width: 30%" src="assets/reprograma-fundos-claros.png" alt="logo reprograma" width="500">
 </h1>
 
-
 # Reprograma | Bootcamp de Análise de Dados
-## 🚀 Exercícios para Casa
-Turma Online 0n29 | Semana 06 | 2024 | Professora Daviny Letícia
+## 🚀 Exercícios para Casa 
+Turma Online on29 | Semana 06 | 2024 | Professora Daviny Letícia
 
-Este repositório contém os exercícios desenvolvidos durante a **Semana 06** do curso de Python da turma Online On29 da Reprograma. Os desafios foram realizados para consolidar os conhecimentos adquiridos em aula.
+Este repositório contém os exercícios desenvolvidos durante a **Semana 06** do curso de Análise de Dados da turma Online On29 da Reprograma. Os desafios foram realizados para consolidar os conhecimentos adquiridos em aula.  
 
-## 📌 Conteúdo do Repositório  
+## 📌 Descrição
+Nesta semana, aprendemos como coletar dados de diferentes fontes, como arquivos CSV, JSON e APIs, e realizamos o tratamento de dados, incluindo a remoção de valores ausentes, padronização e transformação de dados para análise.
 
-- ✅ Manipulação de Arquivos em Python
-- ✅ Criação e Uso de Módulos 
-- ✅ Pacotes em Python
-- ✅ Boas Práticas na Organização do Código
+## 🎯 Objetivos da semana
+- Carregar e manipular diferentes formatos de arquivos de dados.
+- Coletar informações de APIs utilizando requisições HTTP.
+- Aplicar tratamento e limpeza de dados com Pandas.
+- Identificar e lidar com valores ausentes e inconsistências nos dados.
 
-## 🎯 Objetivo  
+## 📝 Conteúdo do Repositório  
+📂 exercicios/ → Lista de exercícios resolvidos.
+📂 notebooks/ → Jupyter Notebooks com exemplos e explicações.
+📄 main.py → Código principal com as soluções dos exercícios.
+📄 requirements.txt → Lista de dependências do projeto.
+📄 README.md → Este documento explicativo.
 
-Os exercícios foram resolvidos com o intuito de **praticar a manipulação de arquivos, criação de módulos e pacotes**, além de reforçar boas práticas de organização do código em Python.
+## 🖥️ Tecnologias utilizadas
+- Python → Linguagem utilizada para análise de dados.
+- Pandas → Manipulação e limpeza de dados.
+- Requests → Para coletar dados de APIs.
+- JSON e CSV → Formatos de arquivos comuns para armazenar dados.
 
 
 ---
